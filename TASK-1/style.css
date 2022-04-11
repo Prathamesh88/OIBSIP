@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
 body {
-  background: #c257dd;
+  background-image:url('pexels-black-ice-1314543.jpg');
+  background-size: cover;
   font-family: 'Montserrat', sans-serif;
 }
 .container {
